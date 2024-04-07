@@ -56,6 +56,6 @@ The project includes a thorough comparison of model performances, offering insig
 This work underscores the complexity of detecting PCL in text and demonstrates the potential of deep learning models to tackle this challenge. Future research directions could include exploring layer-wise learning rate decay, weighted random sampling to address class imbalance, and ensemble methods to leverage the strengths of different models.
 
 ## Authors and acknowledgment
-Utsav Rai
-Rohit Midha
-Harsh Agarwal
+- [Utsav Rai](https://github.com/utsavrai)
+- [Rohit Midha](https://github.com/RohitMidha23)
+- [Harsh Agarwal](https://github.com/)
