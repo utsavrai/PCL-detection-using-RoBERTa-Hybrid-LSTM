@@ -133,8 +133,8 @@ def compute_metrics(p: EvalPrediction):
     }
 
 
-HF_TOKEN = "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"
-WANDB_TOKEN = "26b0c0ff3251f094fd91c1472199ea71e4edaa45"
+HF_TOKEN = "put your token here"
+WANDB_TOKEN = "put your token here"
 
 # WANDB_TOKEN = userdata.get('WANDB_TOKEN')
 wandb.login(key=WANDB_TOKEN)
