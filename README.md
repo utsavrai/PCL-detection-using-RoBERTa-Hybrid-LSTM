@@ -58,4 +58,4 @@ This work underscores the complexity of detecting PCL in text and demonstrates t
 ## Authors and acknowledgment
 - [Utsav Rai](https://github.com/utsavrai)
 - [Rohit Midha](https://github.com/RohitMidha23)
-- [Harsh Agarwal](https://github.com/)
+- [Harsh Agarwal](https://github.com/harsh-ux)
